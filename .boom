@@ -3,8 +3,10 @@
     {
       "links": [
         {
-          "sc": "www.soundcloud.com",
-	  "fb": "www.facebook.com"
+          "sc": "www.soundcloud.com"
+        },
+        {
+          "fb": "www.facebook.com"
         }
       ]
     }
